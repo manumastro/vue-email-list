@@ -26,4 +26,5 @@ const app = new Vue({
     this.getEmailList();
   }
 
+  
 })
